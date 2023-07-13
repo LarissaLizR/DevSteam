@@ -36,5 +36,5 @@ Depois, é só abrir [http://localhost:3000](http://localhost:3000) com o seu na
 ## Redes sociais:
 
 - [Instagram](https://www.instagram.com/eu.lizsouza/)
-- [Linkedin]([https://www.linkedin.com/larissa-souza-26591914b/])
+- [Linkedin](https://www.linkedin.com/in/larissa-souza-26591914b)
 
