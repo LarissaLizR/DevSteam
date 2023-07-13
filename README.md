@@ -35,8 +35,6 @@ Depois, é só abrir [http://localhost:3000](http://localhost:3000) com o seu na
 
 ## Redes sociais:
 
-Acompanhe o SejaDev em:
-- [Youtube](https://www.youtube.com/@sejaDev)
-- [Instagram](https://www.instagram.com/seja.dev/)
-- [Linkedin](https://www.linkedin.com/company/79618568)
-- [Facebook](https://www.facebook.com/sejadevoficial/)
+- [Instagram](https://www.instagram.com/eu.lizsouza/)
+- [Linkedin](https://www.linkedin.com/larissa-souza-26591914b)
+
