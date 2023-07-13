@@ -1,11 +1,11 @@
-## Sobre
+## Sobre 💻
 
 Esse projeto foi construído para fins didáticos no evento Semana da Evolução na Programação.
 
 Esta é a base para o projeto, com todas as imagens necessárias.
 
 ## Tecnologias
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
 - NextJs na sua versão 13.4.1
 - ReactJs na versão 18.2.0
 
